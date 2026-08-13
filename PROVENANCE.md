@@ -58,8 +58,12 @@ no `eval`/`exec`, no f-string SQL, no `pickle`. `classify.py` reads
   account jonathanwxh-3970 / team jons-projects-0e19e128). Live render verified
   via headless browser: full galaxy, signals, chrome; console clean except a
   favicon 404 (fixed by the inline-SVG favicon in the follow-up cosmetic commit).
-- Custom domain: `nebula.alyoechosys.dev` added to the Vercel project; DNS record
-  pending at Cloudflare (no CF API token on this box):
-  `CNAME nebula → eb4acf9bed2f3f01.vercel-dns-017.com` (proxy disabled).
+- Custom domain: `nebula.alyoechosys.dev` added to the Vercel project; CNAME created
+  at Cloudflare via API (`nebula → eb4acf9bed2f3f01.vercel-dns-017.com`, DNS-only,
+  record id 764c1418fa1dbb5cbd146d5d4e64776a, zone 61b02da8bf372ff56fd5ba14a34c9d28).
+  Vercel domain verification: passed. HTTPS live and render-verified
+  (full galaxy, 0 console errors). Cloudflare token stored as CLOUDFLARE_API_TOKEN
+  in the dev profile .env (zone-scoped; /user/tokens/verify rejects it but zone
+  endpoints work — a known scoped-token quirk).
 - Post-sign-off cosmetic change: inline SVG favicon `<link>` added to `<head>`
   (static markup only — no logic touched; sign-offs #1/#2 cover all executable code).
