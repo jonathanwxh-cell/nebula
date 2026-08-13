@@ -1,0 +1,3302 @@
+{
+ "Proof of Sound": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "sonifying bitcoin mempool data"
+ },
+ "Paper Market": {
+  "category": "Games",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "ai agents trading sandbox"
+ },
+ "Hello Kitty Lawsuit Tracker": {
+  "category": "Other",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "hello kitty legal database"
+ },
+ "Is The Mountain Out": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "hyperlocal mountain visibility tracker"
+ },
+ "Ctrl-Watch": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "retro magazine reviewing youtube"
+ },
+ "Drop Flap Boards": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "digital split-flap displays"
+ },
+ "Inside the Model": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "visualizing transformer internals"
+ },
+ "Lips Up": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "lip filler preview tool"
+ },
+ "Gist Discover": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "tiktok for arxiv summaries"
+ },
+ "JobVerify": {
+  "category": "Security",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "verify recruiters and jobs"
+ },
+ "Letterphile": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "word game with one letter"
+ },
+ "Method Atlas": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "visual method catalog"
+ },
+ "Spot the Cue": {
+  "category": "Social / fun",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "social cue coaching tool"
+ },
+ "Mini-Bucket": {
+  "category": "Dev tools",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "custom control panel for nas"
+ },
+ "cheapino": {
+  "category": "Dev tools",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "open-source keyboard pcb"
+ },
+ "Snibble": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "snake meets scrabble"
+ },
+ "How clanker are you?": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "reverse turing test"
+ },
+ "Pixel a Go-Go": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "gameboy camera upscaling"
+ },
+ "WeHeartIt": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "2010s image-sharing network"
+ },
+ "Doomed": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "roasts you out of doomscrolling"
+ },
+ "BoxdCover": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "visual poster collage for film"
+ },
+ "Ultrawyde": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "film aspect ratio checker"
+ },
+ "DoodleMeme": {
+  "category": "Art / creative",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "animated memes from doodles"
+ },
+ "Anthracite": {
+  "category": "Data-viz",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "local stats on personal data"
+ },
+ "Daily Bug": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "daily puzzle game for developers"
+ },
+ "NoUploadTools": {
+  "category": "Local-first / privacy",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "no login or upload tools"
+ },
+ "SmolSignal": {
+  "category": "Dev tools",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "manage flipper zero files"
+ },
+ "Philosiq": {
+  "category": "Education / learning",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "track officials and political compass"
+ },
+ "Kontext": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "move AI chat context"
+ },
+ "StarMesh": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "autonomous space manufacturing kernel"
+ },
+ "Sidenote": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "LLM writes git diff for comments"
+ },
+ "Nomlings": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "virtual pet eats tokens"
+ },
+ "Inspec": {
+  "category": "Health",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "REM sleep detection camera"
+ },
+ "Can I Walk My Dog": {
+  "category": "Social / fun",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "weather safety for dog walks"
+ },
+ "Cooked House": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "FPS game by parent and kid"
+ },
+ "Slop-Cops": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "web game with AI cops"
+ },
+ "BlendCast": {
+  "category": "Audio / music",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "alternate music and podcasts"
+ },
+ "Tacheles": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "detect AI slop with regex"
+ },
+ "Rank with Friends": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily ranking game with AI"
+ },
+ "Tlaloc": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "thunderstorm tracker for match"
+ },
+ "Cusparo": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser rpg with ai narration"
+ },
+ "TrainSim": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser train tycoon game"
+ },
+ "CabinFever": {
+  "category": "Maps / geo",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "planning alpine hut hikes"
+ },
+ "Sheriff Picks": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "ai agent curates products"
+ },
+ "Wang Tiles in FFIX Ocean": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "final fantasy ix technical deep dive"
+ },
+ "marginalia.nu": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "indie web search engine"
+ },
+ "Silicon Physics Sandbox": {
+  "category": "Science / space",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "silicon physics sandbox simulation"
+ },
+ "Every I am statement in the Congressional Record": {
+  "category": "Data-viz",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "congressional record data art"
+ },
+ "Skppr": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "random website discovery extension"
+ },
+ "lightfit": {
+  "category": "Education / learning",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "ar plant matching tool"
+ },
+ "orzma": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "terminal emulator with webviews"
+ },
+ "useundo": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "file undo button tool"
+ },
+ "CampSage": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "campsite availability map"
+ },
+ "stlouing.com": {
+  "category": "Art / creative",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "interactive city exploration project"
+ },
+ "Instantvideos": {
+  "category": "Education / learning",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "short documentaries format"
+ },
+ "wince-dc": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "windows ce dreamcast homebrew"
+ },
+ "callitdone.today": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "ai phone call service"
+ },
+ "Cosmic Forge": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "idle cosmic life game"
+ },
+ "Whitespace": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "mac native excalidraw clone"
+ },
+ "808 Drum Machine": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser 808 drum machine"
+ },
+ "GuessItsTime": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily guessing game"
+ },
+ "Strata": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "map guessing game"
+ },
+ "One Word Story": {
+  "category": "Social / fun",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "collaborative writing"
+ },
+ "Tessera": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI with evidence"
+ },
+ "Cinema Chain Game": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "actor connection game"
+ },
+ "Perks Reminder": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "tracks credit perks"
+ },
+ "Something Ridiculous": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "random silly prompts"
+ },
+ "Blind Tasting": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "food guessing game"
+ },
+ "1-bit WebGPU LLM": {
+  "category": "Local-first / privacy",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser LLM local"
+ },
+ "Digg Labs Remake": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "nostalgic visualization"
+ },
+ "Deep-Live-Cam": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "real-time face swap"
+ },
+ "Fenzo AI": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI generated courses"
+ },
+ "Ruvkgo": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "PWA route optimizer"
+ },
+ "xls-reader": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "local xls reader"
+ },
+ "Budgetmo": {
+  "category": "Data-viz",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "budget visualization"
+ },
+ "Cartographia40k": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "3D map of galaxy"
+ },
+ "SlapMetrics": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "funny payment sound"
+ },
+ "Pixel Chapel": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "pixel art chapel"
+ },
+ "Lucid": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "edit AI reasoning"
+ },
+ "Snitscanner": {
+  "category": "Local-first / privacy",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser scanner nostalgic"
+ },
+ "Surly Bonds": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "orbital physics demo"
+ },
+ "agentsocial": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agent social network"
+ },
+ "Geozee": {
+  "category": "Maps / geo",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "daily geography game"
+ },
+ "Knitudio": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "knitting puzzle game"
+ },
+ "Typeflag": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "font guessing game"
+ },
+ "ModVizion": {
+  "category": "AI / ML",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "AI car mod preview"
+ },
+ "War Table": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI debate tool"
+ },
+ "SlopLash": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI image party game"
+ },
+ "Lusion": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "interactive visual showcase"
+ },
+ "Bonk": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "macbook bonk triggers"
+ },
+ "TwentyFourClocks": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "kinetic clock art"
+ },
+ "WaitToUnlock": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "screentime lockout app"
+ },
+ "Rock-Paper-Scissors Machine": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "hand-tracking RPS game"
+ },
+ "Spacemap": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "3D solar system map"
+ },
+ "SubjectiveZero": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "agentic node editor"
+ },
+ "Face to Animal": {
+  "category": "Social / fun",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "face animal match"
+ },
+ "DinePoll": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "restaurant poll generator"
+ },
+ "Waddle World": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "duck MMO browser"
+ },
+ "E--": {
+  "category": "Dev tools",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "hybrid programming language"
+ },
+ "Pick Our Day": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "no-signup scheduling app"
+ },
+ "The American Experiment": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agent simulation"
+ },
+ "PastPage": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Finds archived web pages"
+ },
+ "Resolve Directory": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Color grading resources"
+ },
+ "Best Sudoku": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "Browser sudoku game"
+ },
+ "Wildcard Dex": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Gamifies wildlife sightings"
+ },
+ "The Quiet Map": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Maps quiet locations"
+ },
+ "Orbit": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "AR satellite tracker"
+ },
+ "ForgeKit": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Browser Windows simulation"
+ },
+ "Streak Graveyard": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Memorial for streaks"
+ },
+ "Royal Game of Ur": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Ancient board game"
+ },
+ "Life Desmos": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Math and art blend"
+ },
+ "3D Quote Library": {
+  "category": "Art / creative",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "3D quote library"
+ },
+ "Cabin Visuals": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Music visualization editor"
+ },
+ "wttr.in": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "ASCII weather display"
+ },
+ "Earth Game": {
+  "category": "Productivity",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "Offline goal quests"
+ },
+ "Sfotty Pie": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "Atari emulator in browser"
+ },
+ "Sanfransim": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Startup simulation game"
+ },
+ "Image Pipeline": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "In-browser photo presets"
+ },
+ "Peeker": {
+  "category": "Security",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Detects shoulder surfers"
+ },
+ "Who Is In Space": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Live astronaut list"
+ },
+ "Codebase Posters": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Generative poster art from repos"
+ },
+ "Every Noise": {
+  "category": "Audio / music",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Music genre discovery map"
+ },
+ "Present of Time": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Physical product for focus"
+ },
+ "Tenclicker": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Browser clicker with local LLM"
+ },
+ "Lidwatch": {
+  "category": "Productivity",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Mac utility for display sleep"
+ },
+ "Spidermania": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Interactive Spider-Man fan experience"
+ },
+ "PitchTrail": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Pitch training for kids"
+ },
+ "SloMoFix": {
+  "category": "Dev tools",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Batch convert DJI slow-motion"
+ },
+ "Artificiety": {
+  "category": "AI / ML",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Agentic society simulation"
+ },
+ "The Line of Hope": {
+  "category": "Data-viz",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Baseball playoff chances visualization"
+ },
+ "Rosply": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI desktop agent automation"
+ },
+ "Radiodock": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Streaming community radio PWA"
+ },
+ "Mosey Parker": {
+  "category": "Maps / geo",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Bikeshare finder worldwide"
+ },
+ "Hooping": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Open-source puzzle game"
+ },
+ "Be the ChatBOT": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Reverse Turing test game"
+ },
+ "Play Online HP48G(X) Calculator Games": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "HP calculator game emulator"
+ },
+ "RGB Gaslighter": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Color matching party game"
+ },
+ "Moltshit": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agent imageboard"
+ },
+ "Idle Torrent": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Idle game about torrenting"
+ },
+ "FlagPie": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Flag guessing via pie chart"
+ },
+ "Artificial Wasteland": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI-generated articles, anti-slop"
+ },
+ "Animated map of US railroad and population growth": {
+  "category": "Data-viz",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Animated map visualization"
+ },
+ "PokeTokenBar": {
+  "category": "AI / ML",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Gamified token usage"
+ },
+ "Swipe for Letterboxd": {
+  "category": "Other",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Dating app for movies"
+ },
+ "Tree etymology": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Etymology visual"
+ },
+ "RoboChess": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agents play chess"
+ },
+ "Flikk Football": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Paper soccer remake"
+ },
+ "Token Gobbler": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Play as LLM"
+ },
+ "K3": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Prompt generates games"
+ },
+ "SSH Honeypot Live": {
+  "category": "Security",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Live honeypot monitoring"
+ },
+ "Decoy Font": {
+  "category": "Art / creative",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Deceptive font"
+ },
+ "A zoomable timeline of 4M Wikipedia events": {
+  "category": "Data-viz",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Zoomable timeline"
+ },
+ "TC Poole Skulls VTuber": {
+  "category": "Art / creative",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "Browser VTuber, no camera"
+ },
+ "Wander Around": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Internet as MMO"
+ },
+ "Selbonds": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agent bonds"
+ },
+ "Sastaboard": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Split-flap animations"
+ },
+ "Fallout 1 PSP Port": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Fallout on PSP"
+ },
+ "Dolphin Beyond": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Dolphin Olympics remake"
+ },
+ "Argument Duel": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI-judged debates"
+ },
+ "Propagandle": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Trivia on conspiracies"
+ },
+ "Stickblade Arena": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "LLMs controlling fighters"
+ },
+ "CrossLines": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "two-player hex game"
+ },
+ "Poems, an .ISO Puzzle": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "ISO puzzle nostalgic"
+ },
+ "Breve": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": true,
+  "why": "macOS app local"
+ },
+ "Q3Edit": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser editor local"
+ },
+ "Half Life 2 Deathmatch Web Port": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser port local"
+ },
+ "IMAXXing": {
+  "category": "Productivity",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "seat alerts useful"
+ },
+ "SDF Pelicans on Bicycle": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "raymarched tech art"
+ },
+ "Glitch Radio": {
+  "category": "Audio / music",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "procedural glitch music"
+ },
+ "Voronoi Go": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Go on Voronoi"
+ },
+ "SPATIA": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI analyzes rooms"
+ },
+ "Pathlings": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "step-tracking app"
+ },
+ "RewindCup": {
+  "category": "Data-viz",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "visual timeline globe"
+ },
+ "Interra News": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "news on globe"
+ },
+ "MockPilot": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser extension local"
+ },
+ "Automaton": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agent survival"
+ },
+ "Ladybug": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "creative coding app"
+ },
+ "Dibs": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "browser party games"
+ },
+ "Teya": {
+  "category": "AI / ML",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "wall-mounted AI agent"
+ },
+ "Internet History Roulette": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "90s archived sites"
+ },
+ "Babel": {
+  "category": "Data-viz",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "visualizes wiki edits as skyscraper"
+ },
+ "Do You Ever Feel Like a Plastic Bag": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "game about floating as plastic bag"
+ },
+ "Phosphor": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "CRT TV video player nostalgic"
+ },
+ "Hey Clicky": {
+  "category": "Other",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "playful interactive site with easter eggs"
+ },
+ "Rate A Human": {
+  "category": "AI / ML",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "AI agents review humans satirically"
+ },
+ "Labrysia": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "catalogues games about virtual environments"
+ },
+ "Scorchsaver": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "teaches fire management through puzzles"
+ },
+ "Glitch & Grit": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "striking visual design with bold typography"
+ },
+ "YC Galaxy": {
+  "category": "Data-viz",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "maps YC startups as galaxy"
+ },
+ "What Year Was": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily history game guessing years"
+ },
+ "Mutable CRM": {
+  "category": "Dev tools",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "conversational CRM schema editor"
+ },
+ "BigMoeOnEdge": {
+  "category": "AI / ML",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "runs large MoE on phone"
+ },
+ "Ask Ciela": {
+  "category": "AI / ML",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "AI-generated tarot reading site"
+ },
+ "Relikes": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "JS library for text reactions"
+ },
+ "PaperGuessr": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily history game with NYT front pages"
+ },
+ "Flash Filter": {
+  "category": "Health",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "screen filter for photosensitive epilepsy"
+ },
+ "Grace Cathedral Gaussian Splat": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "3D photogrammetry tour of cathedral"
+ },
+ "What Height": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "visual size comparison tool"
+ },
+ "Poke500": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "index tracking Pokemon card values"
+ },
+ "Seek": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI search for video content"
+ },
+ "CBXY": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "comic reading experience tool"
+ },
+ "Apollo 11 Tranquility Base Archive": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Apollo 11 data archive"
+ },
+ "Rngdle": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily guessing game"
+ },
+ "Gridform": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "creative platform for art"
+ },
+ "Crate": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "local music manager, no cloud"
+ },
+ "Ground Control": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "chess with AI coach"
+ },
+ "Hermes": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agent deployment tool"
+ },
+ "Memento": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "shared memory for AI"
+ },
+ "Velprium": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "time tracking workspace"
+ },
+ "Midtown Madness 2 Browser Port": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "classic game remake"
+ },
+ "Jelly UI": {
+  "category": "Art / creative",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "physics for UI controls"
+ },
+ "Orbil": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "geography game on globe"
+ },
+ "Taylor Detector": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "product barcode scanner"
+ },
+ "Blobmixer": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "3D shape morphing tool"
+ },
+ "Gut Check Chicago": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "restaurant health inspection lookup"
+ },
+ "Fractl": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "generative fractal art"
+ },
+ "ATCPal": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "ATC practice for pilots"
+ },
+ "Itomdev": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "loop animation art"
+ },
+ "claude-code-eyes": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI coding for hardware"
+ },
+ "TunD": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "virtual LAN for gaming"
+ },
+ "Lop Nur Twin": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser-based 3D terrain visualization"
+ },
+ "Tease": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "puzzle collection free to play"
+ },
+ "OriginKit": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "animated component library for web"
+ },
+ "Transitions.dev": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "UI transition code snippets"
+ },
+ "Cartopolis": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "OpenStreetMap rendered like 1999"
+ },
+ "Pithop": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "finds hidden gems along routes"
+ },
+ "Mundu": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "interactive map of Marco Polo"
+ },
+ "Gif Pong": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "messaging with gifs only"
+ },
+ "Recode": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "app blocker with barcode unlock"
+ },
+ "Grecian Computer": {
+  "category": "Science / space",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "brute-forced ancient Greek puzzle"
+ },
+ "drawing.garden": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "collaborative doodling canvas"
+ },
+ "SF Speedrun": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Mario-style startup satire game"
+ },
+ "Sakura Dreams Toybox": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Neocities toybox page"
+ },
+ "Lifeline Twitch Voice Controller": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Twitch chat controls PS2 games"
+ },
+ "Infinite Programmer ASMR": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "generative coding soundtrack"
+ },
+ "What's the Grift": {
+  "category": "AI / ML",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "RAG research tool for grifters"
+ },
+ "Netmon": {
+  "category": "Dev tools",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "self-hosted LAN monitor"
+ },
+ "Image to 3D Model": {
+  "category": "AI / ML",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "AI image to 3D pipeline"
+ },
+ "ValuePair": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "friendship app matching on values"
+ },
+ "Worse On Purpose": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "deliberately degraded websites"
+ },
+ "Population Rays": {
+  "category": "Maps / geo",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Population density map visualization"
+ },
+ "adobe pueblo": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Interactive map of adobe buildings"
+ },
+ "Serein": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Breathing meditation app"
+ },
+ "TrueScale Audio": {
+  "category": "Audio / music",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Compare hi-fi speakers visually"
+ },
+ "Chess Opening Coach": {
+  "category": "Education / learning",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Chess opening practice with voice"
+ },
+ "Flow Factory": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Puzzle game with patterns"
+ },
+ "Daily Five": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Daily NBA puzzle game"
+ },
+ "Flat SF": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Geography puzzle with SF landmarks"
+ },
+ "SIXTY": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Daily puzzle circuit with micro-games"
+ },
+ "VisaInterview.ai": {
+  "category": "Education / learning",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Mock visa interview practice"
+ },
+ "Bean Genie": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Searchable coffee database"
+ },
+ "Recent Design": {
+  "category": "Art / creative",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Design inspiration with live cursors"
+ },
+ "Mercenaries of Tezigdal": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Browser-based 3D MOBA"
+ },
+ "Monopol.ai": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Monopoly game with AI opponents"
+ },
+ "Comic Chatter": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Rebuild of 90s comic chat"
+ },
+ "The Null Vault": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Digital ritual for deletion"
+ },
+ "Money Life": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Financial sim with burnout mechanic"
+ },
+ "Kakeya Conjecture Game": {
+  "category": "Science / space",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Interactive geometry puzzle"
+ },
+ "Millenium Bug": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Retro-banking CSS stylesheet"
+ },
+ "Unskip": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Water reminder with accountability"
+ },
+ "Finances Info": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "stock market globe visualization"
+ },
+ "Seed": {
+  "category": "Games",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "persistent society simulator mmo"
+ },
+ "ImpulseLog": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "savings app for ADHD"
+ },
+ "Digital Bouquet": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "digital flowers creative tool"
+ },
+ "Stuck for Words": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "browser party game"
+ },
+ "PocketLens": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "self-hosted finance tracker"
+ },
+ "LagScope": {
+  "category": "Games",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "speed test for gamers"
+ },
+ "Steganography Tool": {
+  "category": "Security",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "client-side steganography tool"
+ },
+ "OpenFinz": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser-based finance tracker"
+ },
+ "Count Your Times": {
+  "category": "Health",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "mortality calculator"
+ },
+ "Zambrowser": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "watch AI agent work"
+ },
+ "Brolly": {
+  "category": "Maps / geo",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "plain-text weather forecast"
+ },
+ "Atlas of Surveillance": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "map of surveillance tech"
+ },
+ "bribes.fyi": {
+  "category": "Data-viz",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "bribery data comparison"
+ },
+ "Invested Instead": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "stock comparison tool"
+ },
+ "Minesweeper Raycasted": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "3D minesweeper game"
+ },
+ "I Spy": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "animated web experience"
+ },
+ "Pastport": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "geofence alerts"
+ },
+ "Opportunity Engine": {
+  "category": "Dev tools",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "CLI for startup critique"
+ },
+ "SpinWin": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "rotate windows for fun"
+ },
+ "TermsDoctor": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "grades terms of service"
+ },
+ "Box of Cards": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "party game"
+ },
+ "Destroyers.io": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "multiplayer naval combat"
+ },
+ "Invite by Omniiii": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": true,
+  "why": "no signup or email"
+ },
+ "GG Translator": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "rewrites toxic chat"
+ },
+ "The Black Tide": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "pirate battle royale"
+ },
+ "3D QR Tracker": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "QR location on globe"
+ },
+ "The Occult Gatsby": {
+  "category": "Art / creative",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "annotated Gatsby novel"
+ },
+ "Lowkey Studio": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "runs entirely in browser"
+ },
+ "Bongo Cat": {
+  "category": "Other",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "interactive cat bongos"
+ },
+ "BLOCKROT": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "block puzzle roguelike"
+ },
+ "Discrete6502": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "discrete 6502 CPU"
+ },
+ "The Deep": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "dig-and-loot game"
+ },
+ "CheapSecurity": {
+  "category": "Security",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "self-hosted CCTV"
+ },
+ "DarkHours": {
+  "category": "Science / space",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "astrophotography planning tool"
+ },
+ "Infinite Jigsaw Game": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "procedural jigsaw puzzles"
+ },
+ "Boffin": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI coding agent layer"
+ },
+ "CubeSandbox": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "disposable VMs for AI"
+ },
+ "Crestr": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "hiking routing app"
+ },
+ "Message in a Jar": {
+  "category": "Social / fun",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "anonymous messages in sea"
+ },
+ "WorldTafl": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Viking board game puzzles"
+ },
+ "Accolades": {
+  "category": "Art / creative",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Commercial archive for creatives"
+ },
+ "FlatType CYD Demo": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Embedded typography on ESP32"
+ },
+ "Minesweeper": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Minesweeper variant with treasure"
+ },
+ "LucyLive AI Render": {
+  "category": "Art / creative",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "3D-to-AI rendering plugin"
+ },
+ "Omen": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Omen generator with probabilities"
+ },
+ "Overhaul": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Real-world transport MMO"
+ },
+ "FeyNoBg": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Background removal model library"
+ },
+ "Ami": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Local offline automation agent"
+ },
+ "SanityCheck": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI QA agent testing"
+ },
+ "Nonogame": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Daily nonogram puzzle"
+ },
+ "GeneratePPT": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Free PPT generator"
+ },
+ "Kokuin": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Deterministic JSON hashing"
+ },
+ "MIT Bunny": {
+  "category": "AI / ML",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "AI influencer ranking site"
+ },
+ "Civilization Pizza MMO": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Civilization pizza MMO"
+ },
+ "Git Survivors": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "GitHub graph roguelike"
+ },
+ "Make Rent": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Coffee cart roguelike"
+ },
+ "Northbound Line": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Winter train simulation"
+ },
+ "Koby": {
+  "category": "Audio / music",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Audiobook image descriptions"
+ },
+ "9FOLD": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Sudoku roguelike hybrid"
+ },
+ "Digsy World": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "cozy excavation game"
+ },
+ "HushRave": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "silent disco phone sync"
+ },
+ "Klimb": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "competitive daily platformer"
+ },
+ "SkyDot": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "GPS works offline"
+ },
+ "Somodus AR Demo": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "AR browser demo"
+ },
+ "Beakdown": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "multiplayer arcade game"
+ },
+ "AeroSheet": {
+  "category": "Science / space",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "aerodynamics in spreadsheet"
+ },
+ "JRPG Translator Toolkit": {
+  "category": "Education / learning",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "translate JRPGs study"
+ },
+ "Writekin": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "local LLM training"
+ },
+ "88x31.nl": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "old web badges"
+ },
+ "CheapFoodMap": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "crowdsourced cheap food"
+ },
+ "Ordinary Abundance": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "household items luxury"
+ },
+ "Everything Machine": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "smartphone explainer"
+ },
+ "Blender in WebAssembly": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Blender in browser"
+ },
+ "Why Zero University": {
+  "category": "Art / creative",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "immersive storytelling site"
+ },
+ "Play.gl": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "visually stunning webgl"
+ },
+ "Seatbee": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "seating chart solver"
+ },
+ "Replicant Space": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "API space game"
+ },
+ "Whirlie": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Tetris physics variant"
+ },
+ "ROM": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "terminal ROMs"
+ },
+ "Warbirds": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "browser war game"
+ },
+ "Dreeve": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "self-hosted fitness dashboard"
+ },
+ "Mandelbrot WebGPU": {
+  "category": "Other",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "fractal explorer"
+ },
+ "The Only One": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily NBA puzzle"
+ },
+ "Rubik Tutor": {
+  "category": "Other",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Rubik's cube guide"
+ },
+ "Lineage": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "microbial survival game"
+ },
+ "DeepCut": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "collaborative DJ room"
+ },
+ "Martin's Quest": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "route optimization game"
+ },
+ "NegativeEV": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "sports bet EV"
+ },
+ "Student Survival Simulator": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "exam stress simulator"
+ },
+ "WiPhone Lab": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Doom on DIY phone"
+ },
+ "SnapDragon": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "survival card game"
+ },
+ "Collie": {
+  "category": "Local-first / privacy",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "local AI harness"
+ },
+ "OpenTakeoff": {
+  "category": "Productivity",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "construction takeoff tool"
+ },
+ "Loupe": {
+  "category": "Other",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "explains accessibility issues"
+ },
+ "Casberi": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "on-device app manager"
+ },
+ "VoraUI": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "component library for dashboards"
+ },
+ "Keel": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "new programming language"
+ },
+ "Slope HTML5": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "browser remake of slope"
+ },
+ "Pop It All": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser toy, no server"
+ },
+ "Holocloth": {
+  "category": "Art / creative",
+  "confidence": 0.8,
+  "local_first": true,
+  "why": "browser demo, visual"
+ },
+ "Make My Drive Fun": {
+  "category": "Maps / geo",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "road trip discovery"
+ },
+ "CanvasUI": {
+  "category": "Dev tools",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "shaders on UI"
+ },
+ "Chronos": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "terminal hacking games"
+ },
+ "VAX VMS Browser": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "vintage OS in browser"
+ },
+ "Bento Slides": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": true,
+  "why": "single HTML file"
+ },
+ "Shreddit": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "restores old reddit"
+ },
+ "Claude MIDI Twister": {
+  "category": "AI / ML",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "visualize AI activity"
+ },
+ "Sail to Ithaca": {
+  "category": "Education / learning",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "interactive Odyssey"
+ },
+ "Verbaform": {
+  "category": "Productivity",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "offline voice dictation"
+ },
+ "Old Reddit Viewer": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "old reddit viewer"
+ },
+ "CW Browser": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "custom browser engine"
+ },
+ "Penca": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "database with branching"
+ },
+ "Global Research Space": {
+  "category": "Data-viz",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "map of papers"
+ },
+ "jdanwire": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "music player retro"
+ },
+ "RearAware": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI blur cat butts"
+ },
+ "Hiveweaver": {
+  "category": "AI / ML",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "AI radio comics"
+ },
+ "Highwire": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "news framing comparison"
+ },
+ "Congress Trade Alerts": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "congress stock trades"
+ },
+ "gl4ss.ai": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI generates historical images"
+ },
+ "Number Search": {
+  "category": "Data-viz",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Search engine for statistics"
+ },
+ "TCGForecast": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Tracks card prices"
+ },
+ "LoveGroom": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI previews pet haircuts"
+ },
+ "Speciedle": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Teaches taxonomy through game"
+ },
+ "Johndle": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Identify songs from vocals"
+ },
+ "Posecode": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Text notation for movement"
+ },
+ "Opening House": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Chess opening memorization drills"
+ },
+ "Hold The Line": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Daily estimation game"
+ },
+ "creakwork12": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Silly laptop prank"
+ },
+ "cardnDEX": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Tracks card prices"
+ },
+ "LofiCloud": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Lo-fi beats with ATC"
+ },
+ "B-Side Map": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Map of music history"
+ },
+ "EvoChess": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Chess variant with evolution"
+ },
+ "The Endling Saga": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Interactive storytelling experience"
+ },
+ "Schmess": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Real-time chess variant"
+ },
+ "Sixwhyo": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Code reviewer for PRs"
+ },
+ "Vasapica": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "PvP card game"
+ },
+ "Blockwire": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Voxel world editor"
+ },
+ "Give or Take": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Daily estimation game"
+ },
+ "VoiceCut": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Runs offline, private outtakes"
+ },
+ "On the Dot": {
+  "category": "Games",
+  "confidence": 1.0,
+  "local_first": false,
+  "why": "Reflex timing game"
+ },
+ "Joy-Con Codex Micro": {
+  "category": "Dev tools",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Hardware hack for coding"
+ },
+ "Adept": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Transforms playlists into courses"
+ },
+ "Luna Space Simulator": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "Browser-based space simulator"
+ },
+ "Basil Community Garden": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Collaborative garden in browser"
+ },
+ "Push Your Thing": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Collaborative button-mashing race"
+ },
+ "hcker.news": {
+  "category": "AI / ML",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "Filtered news feed"
+ },
+ "LarpIn": {
+  "category": "Social / fun",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "LinkedIn parody social network"
+ },
+ "Vinyl": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Animated vinyl wallpaper"
+ },
+ "Kuramoto.dev": {
+  "category": "Science / space",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Chaos theory visualization"
+ },
+ "Photone Cycles": {
+  "category": "Games",
+  "confidence": 1.0,
+  "local_first": true,
+  "why": "Browser game, no signup"
+ },
+ "SovereignChess": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Chess trainer explains moves"
+ },
+ "Mirall": {
+  "category": "Local-first / privacy",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "Peer-to-peer, no cloud"
+ },
+ "Latex.to": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "In-browser LaTeX compilation"
+ },
+ "Freqcast": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Radio player extracts streams"
+ },
+ "CrazySEO": {
+  "category": "AI / ML",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Checks ChatGPT recommendations"
+ },
+ "0zhr": {
+  "category": "AI / ML",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "Runs locally on consumer hardware"
+ },
+ "Skylab": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Real-time aircraft and satellites"
+ },
+ "Neck to Choke": {
+  "category": "Security",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Scans for exposed credentials"
+ },
+ "Parsley AI": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Strips recipe blogs to essentials"
+ },
+ "Wolftone": {
+  "category": "Games",
+  "confidence": 1.0,
+  "local_first": false,
+  "why": "Puzzle game with music"
+ },
+ "The Swimmer": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Retro arcade tribute"
+ },
+ "Is the Moon Full": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Single-purpose moon checker"
+ },
+ "Camfoolery": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Webcam multiplayer game"
+ },
+ "Gaff3r": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "retro soccer organizer"
+ },
+ "Chiaro Methodology": {
+  "category": "Security",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Open-source SOC 2"
+ },
+ "Hand Wave": {
+  "category": "AI / ML",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Sign language translation"
+ },
+ "Sagorax": {
+  "category": "Games",
+  "confidence": 1.0,
+  "local_first": false,
+  "why": "Browser arena shooter"
+ },
+ "Metroji": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Geography emoji game"
+ },
+ "Dial Up Days": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Hacking sim game"
+ },
+ "Korr": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Generates 3D models"
+ },
+ "Shield Font": {
+  "category": "Security",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Anti-scraping font"
+ },
+ "Morning Print": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Generative art printer"
+ },
+ "Pulite": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Programming puzzle language"
+ },
+ "Heaven Computer": {
+  "category": "Art / creative",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Chaotic web art"
+ },
+ "Hacker News with reduced AI priority": {
+  "category": "Productivity",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Filters AI content"
+ },
+ "Dust Luckyghouls Casino": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Retro casino site"
+ },
+ "Daisey Bloom": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Global flower map"
+ },
+ "Humor Arena": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI humor benchmark"
+ },
+ "Dependency Hell": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "scheduling puzzle game"
+ },
+ "isbtcokay": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "bitcoin price analysis"
+ },
+ "Alchemical-Cosmological Badges": {
+  "category": "Art / creative",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "wearable art hardware"
+ },
+ "Capy": {
+  "category": "Dev tools",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "secret management tool"
+ },
+ "Parley Pit": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "multiplayer bluffing game"
+ },
+ "Webklip": {
+  "category": "Productivity",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "ephemeral clipboard, no account"
+ },
+ "ZeroCloudPDF Sign": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "browser-based, no upload"
+ },
+ "Free Proposal Builder": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "proposal builder tool"
+ },
+ "Stowaway": {
+  "category": "Maps / geo",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "live satellite view"
+ },
+ "Pok\u00e9mon Emerald RP2350": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "pokemon on microcontroller"
+ },
+ "WhoBeefed": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "interactive map of beefs"
+ },
+ "SynthShape": {
+  "category": "Audio / music",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "drawing to sound"
+ },
+ "Sweatling": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "fitness gamification"
+ },
+ "Number Garden": {
+  "category": "Data-viz",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "visualize mathematical structures"
+ },
+ "Pachi Eta": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "text animation art"
+ },
+ "Draw.How": {
+  "category": "Education / learning",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "drawing tutorials"
+ },
+ "JazzChords": {
+  "category": "Audio / music",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "jazz chord simulation"
+ },
+ "Bitiverse": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "browser MMO"
+ },
+ "PooReview": {
+  "category": "Maps / geo",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "bathroom finder map"
+ },
+ "Missile Massacre": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "indie game"
+ },
+ "Vaytric Ad Lookup": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "ad intelligence tool"
+ },
+ "Node.JS in the Browser": {
+  "category": "Dev tools",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "runs node in browser"
+ },
+ "Light Circuit": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "light puzzle game"
+ },
+ "Scany": {
+  "category": "Productivity",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "free pdf scanner"
+ },
+ "Mandelbox Fractal Visualizer": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "fractal visualizer"
+ },
+ "GeoFS": {
+  "category": "Maps / geo",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "flight sim with satellite"
+ },
+ "Pub Doubly": {
+  "category": "Finance",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "unclaimed royalties search"
+ },
+ "Mazurka Cafe": {
+  "category": "Audio / music",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "social music rooms"
+ },
+ "CrossPlay": {
+  "category": "Games",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "e-reader puzzles"
+ },
+ "OVERTHRONED": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "nfl stock market game"
+ },
+ "Liga Pixel": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "pokemon league simulator"
+ },
+ "WeekPad": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "calm weekly planner"
+ },
+ "Farm World": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "3d farming mmo"
+ },
+ "SpaceStrike": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "space combat game"
+ },
+ "60fps.design": {
+  "category": "Art / creative",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "motion design patterns"
+ },
+ "GoalCrest": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "football manager tycoon"
+ },
+ "Eclipse Viewer": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "eclipse visualization"
+ },
+ "Clippy for macOS": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "clippy assistant"
+ },
+ "Klubnacht ID": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "berghain track IDs"
+ },
+ "BrickForgerAI": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI generates lego instructions"
+ },
+ "Roland TR-808": {
+  "category": "Audio / music",
+  "confidence": 1.0,
+  "local_first": true,
+  "why": "Browser-based drum machine"
+ },
+ "Talk to the Hand": {
+  "category": "Education / learning",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "Webcam ASL tutor"
+ },
+ "Signiq": {
+  "category": "Education / learning",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "ASL practice with recognition"
+ },
+ "Amiga Games": {
+  "category": "Retro / nostalgia",
+  "confidence": 1.0,
+  "local_first": true,
+  "why": "Classic Amiga games emulated"
+ },
+ "Rondocode": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Browser synth DSP engine"
+ },
+ "Blot": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Collaborative drawing game"
+ },
+ "Normish": {
+  "category": "Social / fun",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Social guessing game"
+ },
+ "Happy Hues": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Color palette gallery"
+ },
+ "Sue Them Chickens": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Multiplayer business sim"
+ },
+ "Nocturne": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": true,
+  "why": "MacOS app scrambles clock"
+ },
+ "Discnct": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Blocks reels and shorts"
+ },
+ "Kindle for WHOOP": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Kindle shows fitness data"
+ },
+ "Saving Recipes": {
+  "category": "Finance",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Ranks recipes by sales"
+ },
+ "Tectonic Globe": {
+  "category": "Science / space",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Tectonic globe visualization"
+ },
+ "Snapfari": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Identifies animal species"
+ },
+ "MySpace Profile Generator": {
+  "category": "Retro / nostalgia",
+  "confidence": 1.0,
+  "local_first": false,
+  "why": "Fake MySpace generator"
+ },
+ "Black Imago Maze": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": true,
+  "why": "Procedural dungeon maze"
+ },
+ "Holepunch": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Paper folding puzzle"
+ },
+ "Nakama Run": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "One Piece roguelike"
+ },
+ "PC Recap": {
+  "category": "Data-viz",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "recaps computer usage stats"
+ },
+ "BloomsEye": {
+  "category": "Productivity",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "garden planning tool"
+ },
+ "Puzzled Together": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "collaborative jigsaw puzzle"
+ },
+ "Consciousness Library": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "psychedelic research archive"
+ },
+ "EnigmaWord": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "semantic word game"
+ },
+ "FlatSat": {
+  "category": "Security",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "satellite security training"
+ },
+ "Fezer": {
+  "category": "AI / ML",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "language learning with AI"
+ },
+ "Every Cube": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "infinite cube permutations"
+ },
+ "Haryana Roadways": {
+  "category": "Audio / music",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "nostalgic bus ride simulation"
+ },
+ "Needle2": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "tiny edge LLM"
+ },
+ "Eigendrum": {
+  "category": "Audio / music",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "draw shapes to hear drums"
+ },
+ "Hatch Index": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "poultry hatchery search"
+ },
+ "Laundry Room 3D": {
+  "category": "Productivity",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "laundry machine status"
+ },
+ "Terafab": {
+  "category": "Other",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "futuristic 3D interface"
+ },
+ "MyTimmiesPassport": {
+  "category": "Social / fun",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "coffee shop stamp book"
+ },
+ "React Stereogram": {
+  "category": "Retro / nostalgia",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "magic eye stereograms"
+ },
+ "AI Pulse": {
+  "category": "Productivity",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "AI task indicator"
+ },
+ "CleanPlate US": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "restaurant health grades"
+ },
+ "Tilly": {
+  "category": "Productivity",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "macOS uninstaller"
+ },
+ "Crisp Photos": {
+  "category": "Local-first / privacy",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "local upscaling no upload"
+ },
+ "Minus": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "on-device ad detection"
+ },
+ "Say It": {
+  "category": "Audio / music",
+  "confidence": 0.8,
+  "local_first": true,
+  "why": "local text-to-speech"
+ },
+ "The Untangle App": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "burn unsent messages"
+ },
+ "MetFrame": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "view museum artworks"
+ },
+ "Blind Box Marble Maze": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "physical puzzle game"
+ },
+ "ListToCart": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "photo to shopping cart"
+ },
+ "Game Combiner": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "combine games for ideas"
+ },
+ "Mantis": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "interactive line art"
+ },
+ "ForkHistory": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "alternate-history game"
+ },
+ "NotchDo": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "notch task list"
+ },
+ "Agentic World Cup": {
+  "category": "AI / ML",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "AI agents compete"
+ },
+ "Quantum Foosball": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "quantum foosball game"
+ },
+ "SPAN": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily word game"
+ },
+ "Math Ninja": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "multiplication practice game"
+ },
+ "ThymeBlock": {
+  "category": "Productivity",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "recipe extraction and planning"
+ },
+ "Last Pulse": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "browser zombie survival"
+ },
+ "Ditherit": {
+  "category": "Art / creative",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "dithering images tool"
+ },
+ "Anatomy Atelier": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "3D anatomy explorer"
+ },
+ "Paneful": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "daily painting guessing game"
+ },
+ "DIGXIT": {
+  "category": "Games",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "couch multiplayer game"
+ },
+ "Slingshot Speeders": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Racing game with orbital mechanics"
+ },
+ "Mooneva Cycle": {
+  "category": "Health",
+  "confidence": 0.9,
+  "local_first": true,
+  "why": "Offline period tracker, no servers"
+ },
+ "Stillio": {
+  "category": "Data-viz",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Tracks website visual changes over time"
+ },
+ "Photo Blaster": {
+  "category": "Games",
+  "confidence": 0.95,
+  "local_first": false,
+  "why": "Webcam-based shooter game"
+ },
+ "Snipsy": {
+  "category": "Social / fun",
+  "confidence": 0.7,
+  "local_first": false,
+  "why": "Turns photos into stamp keepsakes"
+ },
+ "MUBU World": {
+  "category": "Art / creative",
+  "confidence": 0.8,
+  "local_first": false,
+  "why": "Cute art dashboard with widgets"
+ },
+ "FeelMeTV": {
+  "category": "Other",
+  "confidence": 0.6,
+  "local_first": false,
+  "why": "TV recommendations based on mood"
+ },
+ "GymLog Workout Analytics": {
+  "category": "Health",
+  "confidence": 0.85,
+  "local_first": true,
+  "why": "Client-side workout analytics, no upload"
+ },
+ "Retain": {
+  "category": "Education / learning",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Vocabulary app with spaced repetition"
+ },
+ "Pane": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Browser for creating living websites"
+ },
+ "InteractionKit": {
+  "category": "Dev tools",
+  "confidence": 0.9,
+  "local_first": false,
+  "why": "Library of web interactions"
+ },
+ "txta": {
+  "category": "Security",
+  "confidence": 0.85,
+  "local_first": false,
+  "why": "Secure messaging for GitHub developers"
+ }
+}

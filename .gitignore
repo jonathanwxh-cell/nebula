@@ -1,0 +1,11 @@
+# Local artifacts — not committed
+
+# LLM classification cache (regenerable via pipeline.py; costs one batched pass)
+classify_cache.jsonl
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
