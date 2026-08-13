@@ -51,4 +51,15 @@ no `eval`/`exec`, no f-string SQL, no `pickle`. `classify.py` reads
   categories.json 550 keys, zero javascript:/data: schemes, secret sweep clean).
 - Recommendation: commit with docs, then deploy. Full record: reviews/deepseek-initial-20260813.md.
 
-**Deploy:** PENDING
+**Deploy:**
+- GitHub: `jonathanwxh-cell/nebula` (public), initial commit `c6200e9`, local HEAD ==
+  remote master (verified via `gh api`).
+- Vercel: production deploy live at https://nebula-mu-three.vercel.app (CLI,
+  account jonathanwxh-3970 / team jons-projects-0e19e128). Live render verified
+  via headless browser: full galaxy, signals, chrome; console clean except a
+  favicon 404 (fixed by the inline-SVG favicon in the follow-up cosmetic commit).
+- Custom domain: `nebula.alyoechosys.dev` added to the Vercel project; DNS record
+  pending at Cloudflare (no CF API token on this box):
+  `CNAME nebula → eb4acf9bed2f3f01.vercel-dns-017.com` (proxy disabled).
+- Post-sign-off cosmetic change: inline SVG favicon `<link>` added to `<head>`
+  (static markup only — no logic touched; sign-offs #1/#2 cover all executable code).
